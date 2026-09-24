@@ -1,0 +1,10 @@
+# Given bracket sequence: [((())()(())]] 
+# Can this sequence be considered correct? 
+# If the answer to the previous question is “no”, then what needs to be changed in it to make it correct?
+
+No, that sequence of brackets cannot be considered correct due to wrong closing brackets at the end
+It actually starts with [ and its getting closed with ]], which totally wrong.
+
+The correct order of the closing brakets is as following:
+# [((())()(()))]
+
